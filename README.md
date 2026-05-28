@@ -205,5 +205,3 @@ nyc-taxi-data-pipeline/
 - Created Delta Lake tables with versioning support
 - Enabled BI reporting using Power BI integration
 
-
-```
